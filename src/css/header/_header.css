@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: flex-start;
+    color:rgba(150, 150, 150, 0.726);
+    height: 60px;
+    background-color: black;
+    font-family: 'Montserrat Alternates-reg';
+}
+.header::selection{
+    background: white;
+}
+
+@import url('./_header__heading.css');
+@import url('./_header__timer.css');
+@import url('./_header__date.css');

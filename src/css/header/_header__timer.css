@@ -1,0 +1,7 @@
+.header__timer{
+    padding: 0px 10px;
+}
+
+.header__timer::selection{
+    background: white;
+}

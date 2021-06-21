@@ -1,0 +1,9 @@
+.header__heading{
+    padding: 10px;
+    margin: 10px;
+    font-size: 150%;
+}
+
+.header__heading::selection{
+    background: white;
+}

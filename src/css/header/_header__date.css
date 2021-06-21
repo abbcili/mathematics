@@ -1,0 +1,7 @@
+.header__date{
+    margin-top: 40px;
+    padding-bottom: 0;
+}
+.header__date::selection{
+    background: white;
+}
